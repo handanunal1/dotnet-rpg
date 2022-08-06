@@ -25,3 +25,5 @@ C:\Users\Handan Unal\Repository\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.dll
 C:\Users\Handan Unal\Repository\dotnet-rpg\obj\Debug\net6.0\ref\dotnet-rpg.dll
 C:\Users\Handan Unal\Repository\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.pdb
 C:\Users\Handan Unal\Repository\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.genruntimeconfig.cache
+C:\Users\Handan Unal\Repository\dotnet-rpg\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Handan Unal\Repository\dotnet-rpg\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
